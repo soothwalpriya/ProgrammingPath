@@ -1,2 +1,2 @@
 # ProgrammingPath
-Learning Coding with Java
+starting Coding Journey
